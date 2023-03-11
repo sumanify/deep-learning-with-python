@@ -2,4 +2,5 @@
 
 Exercises to learn deep learning with python.
 
-imdb.py - Classifying movie reviews
+imdb.py - A binary classification of movie reviews
+reuters.py - A single-label, multiclass classification for Reuters newswires
